@@ -1,0 +1,2 @@
+robot_pose_ekf
+-DCATKIN_DEVEL_PREFIX=/home/jzc/robot_pose_ekf_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jzc/robot_pose_ekf_ws/install -G Unix Makefiles

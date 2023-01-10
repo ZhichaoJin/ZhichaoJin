@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jzc/robot_pose_ekf_ws/install/setup.sh
